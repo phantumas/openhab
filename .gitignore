@@ -10,15 +10,3 @@ bundles/io/org.openhab.io.multimedia.tts.marytts/lib/
 distribution/openhabhome/logs/*.log
 distribution/openhabhome/*.zip
 distribution/openhabhome/etc/rrd4j/*.rrd
-
-*.bak
-
-distribution/openhabhome/etc/db4o/store.db4o
-
-distribution/openhabhome/webapps/static/uuid
-
-distribution/openhabhome/webapps/static/version
-
-targetplatform/openHAB Runtime.launch
-
-targetplatform/openHAB Runtime.launch
